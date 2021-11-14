@@ -69,6 +69,7 @@ A to-do list application was built using React Native as a framework. FIrebase w
 - [React Native](https://reactnative.dev/)
 - [React.js](https://reactjs.org/)
 - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
+- [Firebase](https://firebase.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
